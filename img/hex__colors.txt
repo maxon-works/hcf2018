@@ -1,0 +1,9 @@
+Pink = #e298b4
+Grey background (pas blanc) = #f4f3f3
+Dark Pink = #ae3761
+Purple = #ae3761
+Yellow = #e3a826
+Dark Yellow = #d88b1d
+Light Brown (skin) = #70422d
+Brown (Shadows) = #5a3322
+Dark Brown (hair/Lips) = #171512
